@@ -4,7 +4,7 @@
 
 1. `rm ./Data/redis/.gitkeep`
 2. `rm ./Data/postgres/.gitkeep`
-3. Run [Traefik](https://github.com/mattlombana/App-Traefik)
+3. Run [Traefik](https://github.com/HackingServerHomelab/App-Traefik)
 
 ## Running the Containers
 
